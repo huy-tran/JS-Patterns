@@ -1,0 +1,23 @@
+{
+  "name": "js-patterns",
+  "version": "1.0.0",
+  "description": "JavaScript Patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huy-tran/JS-Patterns.git"
+  },
+  "keywords": [
+    "javascript",
+    "patterns"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huy-tran/JS-Patterns/issues"
+  },
+  "homepage": "https://github.com/huy-tran/JS-Patterns#readme"
+}

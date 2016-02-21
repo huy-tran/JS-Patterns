@@ -1,0 +1,28 @@
+{
+  "name": "js-patterns",
+  "description": "JavaScript Patterns",
+  "main": "index.js",
+  "authors": [
+    "huy-tran <huy.tran1189@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "javascript",
+    "patterns"
+  ],
+  "homepage": "https://github.com/huy-tran/JS-Patterns",
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "^2.1.22"
+  }
+}
